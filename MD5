@@ -1,0 +1,8 @@
+3dceb4efe1ee39511a5126f70f6f9b6c *DESCRIPTION
+3f0c6b52da269b352e04072be073b6dc *NAMESPACE
+37c26a99092cec6c9c20147da58a65d5 *R/Rboss.R
+de109b4113ef55a81bbcf498f0314cad *data/myGene.rda
+51be3cf5cf2eeca8dcfa2b7a17e667ab *man/getOC.Rd
+9f6096577f9dd8ab9df91925fc36ffa3 *man/getbeta.Rd
+1d82dcef3bdf150eb6135ed9ba04c8a7 *man/getpvalue.Rd
+fce8adca5419676a8040b1490c526f6e *man/myGene.Rd
